@@ -9,4 +9,4 @@
     - Pretty good but had problems with popping with multiple audio tracks. Had to export without background music then reapply.
     - Had problem with EDL export / import not being roundtrippable. Lots of clips missing after import.
 - [**Lightworks**](https://www.lwks.com/) : Video Editor.
-    - Needs reactivating every 7 days for free version ([ref](https://www.lwks.com/index.php?option=com_kunena&func=view&catid=42&id=106085&Itemid=81))
+    - Needs reactivating every 7 days for free version ([ref](https://www.lwks.com/index.php?option=com_kunena&func=view&catid=42&id=106085&Itemid=81)) 
